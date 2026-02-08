@@ -1,0 +1,3 @@
+/home/ruben/motor_test/build/CMakeFiles/motor_test.dir
+/home/ruben/motor_test/build/CMakeFiles/edit_cache.dir
+/home/ruben/motor_test/build/CMakeFiles/rebuild_cache.dir

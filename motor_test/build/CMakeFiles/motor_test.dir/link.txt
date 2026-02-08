@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/motor_test.dir/src/motor_test.cpp.o CMakeFiles/motor_test.dir/src/communication/serial_port.cpp.o CMakeFiles/motor_test.dir/src/drivers/motor_control.cpp.o -o motor_test  /usr/lib/x86_64-linux-gnu/libserial.so -lpthread 
